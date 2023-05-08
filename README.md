@@ -127,14 +127,14 @@ plt.show()
 
 ## OUTPUT
 ### Mean Square Error
-```
+
 ![p](epocdl.png)
-```
+
 
 ### True Stock Price, Predicted Stock Price vs time
-```
+
 ![h](graphdl.png)
-```
+
 
 ## RESULT
 A Recurrent Neural Network model for stock price prediction is developed.
